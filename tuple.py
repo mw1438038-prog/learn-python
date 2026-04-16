@@ -1,29 +1,17 @@
 
-# ================================
-# 🔸 TUPLE SECTION (SEPARATE)
-# ================================
-
-# 🔹 8. Tuple Creation
-colors = ("black", "red", "blue")
-
-print("\n--- 8. Tuple Creation ---")
-print(colors)
-
-
-# 🔹 9. Access Tuple Values
-print("\n--- 9. Access Tuple ---")
-print(colors[0])
-print(colors[1])
-
-
-# 🔹 10. Tuple Properties
-print("\n--- 10. Tuple Info ---")
-print("Length:", len(colors))
-
-# Tuple immutable hoti hai (change nahi hoti)
-# colors[0] = "white" ❌ Error ayega
-
-
-# ================================
-# ✅ END OF FILE
-# ================================
+# # Immutable
+# # tuple_b = 1,2,3,'g','f'
+# tuple_c = (2,6,9,'A')
+# tuple_d = (4,9,2,'B')
+# tuple_f = (8,0,1,'C')
+# # tuple_c[0] = 'b'
+# print(tuple_c)
+# tuple_c = tuple_c[0],tuple_c[2],'S',tuple_f[2]
+# print(tuple_c)
+ 
+# ele_a,ele_b,ele_c,ele_d = tuple_c
+ 
+# print(ele_a)
+# print(ele_b)
+# print(ele_c)
+# print(ele_c)
