@@ -1,16 +1,3 @@
-# # variable &datatypes
-# name="waqas"
-# age=19
-# price=670.44
-# a=True
-# print(name)
-# # print(type(name)) string type
-# print(age) 
-# # print(type(age)) int type
-# print(price)
-# # print(type(price)) float type
-# print(a)
-# # print(type(a)) bool type
 
 # #           oprators
 
@@ -64,25 +51,3 @@
 # b=10
 # print(a is b) is oprator
 # print(a is not b) is not oprator
-
-        #  list
-# list=[1,2,3,4,5,6,7,8,9]
-# # list.append(10)
-# # list.remove(1)
-# list.insert(0,1)
-# # list.pop()
-# # list.reverse()
-# # list.sort()
-# # list.clear()
-# print(list)
-    #   Tuple
-# tuple=(1,2,2,3,4,5,6,7,8,9)
-# tuple.count(2)
-# print(tuple)
-    #   Set
-# set={1,2,3,4,5,6,7,8,9}
-# set.add(10)
-# set.remove(1)
-# set.discard(2)
-# set.pop()
-# print(set)
