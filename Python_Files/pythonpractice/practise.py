@@ -149,8 +149,7 @@
     # polymorphism
     # encapsulation
     # abstraction
-# class Person:
-#     def __init__(self, name, age):
+# class Person:s
 #         self.name = name
 #         self.age = age
 
