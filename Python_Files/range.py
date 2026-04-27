@@ -22,6 +22,8 @@
 # even = list(range(0,10,2))
 # odd = list(range(1,10,2))
 # print(even)
+# print(odd)
+ 
  
  
 list_seven = range(17,100000,17)
